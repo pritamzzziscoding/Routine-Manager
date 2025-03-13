@@ -17,7 +17,7 @@ A simple and elegant Day Planner application built using **React**, **Vite**, **
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/pritamzzziscoding/Routine-Manager.git
-   cd todo-app
+   cd Routine-Manager
 2. **Install the dependencies**
     ```sh
     bun install
