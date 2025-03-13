@@ -1,12 +1,34 @@
-# React + Vite
+# 📝 Day Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant Day Planner application built using **React**, **Vite**, **React-Icons**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## Features
+- ✅ Add and delete tasks
+- 📌 Mark tasks as completed
+- 🎨 Responsive and modern UI
+- 🔄 Data persistence (depends upon brower consistency)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- ⚡ **Vite** – Fast build tool for React
+- 🎨 **Tailwind CSS** – Utility-first styling
+- 🔍 **React Icons** – Icons for better UI
 
-## Expanding the ESLint configuration
+## Installation & Setup
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/pritamzzziscoding/Routine-Manager.git
+   cd todo-app
+2. **Install the dependencies**
+    ```sh
+    bun install
+3. **Run the application**
+    ```sh
+    bun run dev
+4. **Open in browser** http://localhost:5173/
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Actual Hosting Of The Application
+The website is beign hosted using Netlify at https://day-scheduler.netlify.app/
+
+## 🤝 Contributing
+Feel free to fork this repo and submit pull requests! 🎉
+
