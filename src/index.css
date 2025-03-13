@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) -110%, rgba(0,212,255,1) 52%, rgba(9,9,121,1) 200%);
+}
+
+.centering{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px dotted darkgreen;
+}
+
+.margin-y{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.padding{
+    padding: 5px;
+}
+
+input{
+    outline: none;
+}
+
+button{
+    cursor: pointer;
+}
+
+.checked{
+    text-decoration: line-through;
+}
+
+.not-checked{
+    text-decoration: none;
+}
